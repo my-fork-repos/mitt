@@ -128,7 +128,7 @@ Remove an event handler for the given type.
 Invoke all handlers for the given type.
 If present, `"*"` handlers are invoked after type-matched handlers.
 
-_Note: Manually firing "*" handlers is not supported._
+Note: Manually firing "\*" handlers is not supported.
 
 **Parameters**
 
